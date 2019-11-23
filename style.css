@@ -77,3 +77,37 @@ img {
     margin-bottom: 50px;
     border-radius: 400px;
 }
+
+footer {
+    padding-top: 50px;
+    text-align: left;
+}
+
+.container-registro {
+    border: solid white 6px;
+    height: 600px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 150px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+
+.container-inventario {
+    border: solid white 6px;
+    height: 450px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 150px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.container-mantenimiento {
+    border: solid white 6px;
+    height: 550px;
+    width: 600px;
+    margin-left: 350px;
+    margin-top: 150px;
+    border-radius: 20px;
+    font-size: 20px;
+}
